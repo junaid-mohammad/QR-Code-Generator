@@ -1,4 +1,4 @@
-# QR Code Generator Project
+# QR Code Generator
 
 This repository contains the source code for a **QR Code Generator**, a command-line application that generates QR codes from user-provided URLs and saves them as PNG images. The app also logs each generated URL into a text file for future reference. The project was built using **Node.js**, showcasing the use of native Node modules, external packages, and the Node Package Manager (NPM).
 
