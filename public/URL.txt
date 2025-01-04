@@ -1,0 +1,6 @@
+google: https://google.com
+bing: https://www.bing.com
+facebook: https://facebook.com
+instagram: https://instagram.com
+hello: https://hello.com
+duolingo: https:/duolingo.com

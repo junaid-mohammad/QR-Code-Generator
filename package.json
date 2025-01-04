@@ -1,0 +1,17 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "A Node.js project to generate QR codes and log URLs using inquirer and qr-image.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Junaid Arif",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.3.0",
+    "qr-image": "^3.2.0"
+  }
+}
