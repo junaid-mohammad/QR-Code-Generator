@@ -4,7 +4,7 @@ This repository contains the source code for a **QR Code Generator**, a command-
 
 ## Purpose
 
-The primary goal of this project was to strengthen my understanding of **Node.js** and explore core concepts like:
+The primary goal of this project was to strengthen my understanding of **Node.js** and explore core node concepts like:
 
 - Using native **Node.js modules** (such as `fs` and `path`).
 - Integrating external **NPM packages** (like `inquirer` and `qr-image`).
